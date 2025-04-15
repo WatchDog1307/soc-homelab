@@ -1,1 +1,1 @@
-# soc-homelab
+# 🚨 Active Directory Threat Response Automation Project 🖥️🔒
